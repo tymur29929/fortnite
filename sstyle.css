@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+  
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+    color: rgb(0, 0, 0);
+}
+main a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+main a:hover{
+    color: rgb(104, 104, 104);
+    
+}
+.one{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+.two{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+.three{
+    color: white;
+}
+header img{
+    height: 500px;
+    width: 250px;
+
+}
+header p{
+    text-align: center;
+}
+.artur{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+footer p{
+color: white;
+font-size: 15px;
+}
+footer h2 {
+    color: white;
+    font-size: 25px;
+}
+footer h1{
+    font-size: 50px;
+}
+.artur::float{
+    left: auto;
+}
+.petr{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+} 
+.DADYA{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+header a{
+    color: white;
+}
